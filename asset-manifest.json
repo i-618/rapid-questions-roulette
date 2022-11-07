@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1533c12.css",
+    "main.js": "/static/js/main.f7148193.js",
+    "static/js/787.cd80d6f3.chunk.js": "/static/js/787.cd80d6f3.chunk.js",
+    "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.ac209be0c79e5dc10480.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=7.0.96": "/static/media/materialdesignicons-webfont.28ce6d308b0d52285317.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=7.0.96": "/static/media/materialdesignicons-webfont.e3dde18cd4c463d07847.woff",
+    "static/media/materialdesignicons-webfont.woff2?v=7.0.96": "/static/media/materialdesignicons-webfont.626f06dbe2e83a32e735.woff2",
+    "index.html": "/index.html",
+    "main.f1533c12.css.map": "/static/css/main.f1533c12.css.map",
+    "main.f7148193.js.map": "/static/js/main.f7148193.js.map",
+    "787.cd80d6f3.chunk.js.map": "/static/js/787.cd80d6f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1533c12.css",
+    "static/js/main.f7148193.js"
+  ]
+}
