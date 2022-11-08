@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rapid-questions-roulette/static/css/main.ff863b2a.css",
-    "main.js": "/rapid-questions-roulette/static/js/main.3ba829cf.js",
+    "main.js": "/rapid-questions-roulette/static/js/main.e140ed11.js",
     "static/js/787.cd80d6f3.chunk.js": "/rapid-questions-roulette/static/js/787.cd80d6f3.chunk.js",
     "static/media/materialdesignicons-webfont.eot": "/rapid-questions-roulette/static/media/materialdesignicons-webfont.ac209be0c79e5dc10480.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.0.96": "/rapid-questions-roulette/static/media/materialdesignicons-webfont.28ce6d308b0d52285317.ttf",
@@ -9,11 +9,11 @@
     "static/media/materialdesignicons-webfont.woff2?v=7.0.96": "/rapid-questions-roulette/static/media/materialdesignicons-webfont.626f06dbe2e83a32e735.woff2",
     "index.html": "/rapid-questions-roulette/index.html",
     "main.ff863b2a.css.map": "/rapid-questions-roulette/static/css/main.ff863b2a.css.map",
-    "main.3ba829cf.js.map": "/rapid-questions-roulette/static/js/main.3ba829cf.js.map",
+    "main.e140ed11.js.map": "/rapid-questions-roulette/static/js/main.e140ed11.js.map",
     "787.cd80d6f3.chunk.js.map": "/rapid-questions-roulette/static/js/787.cd80d6f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff863b2a.css",
-    "static/js/main.3ba829cf.js"
+    "static/js/main.e140ed11.js"
   ]
 }
